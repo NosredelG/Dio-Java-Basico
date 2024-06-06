@@ -1,6 +1,6 @@
 package edu.dio.metodos;
 
-public class Metdos {   
+public class Metodos {   
 
     public double somar(int num1, int num2){
 		//LOGICA - FINALIDADE DO MÉTODO
