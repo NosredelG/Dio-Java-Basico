@@ -1,0 +1,31 @@
+UML (Unified Modeling Language) é uma linguagem padrão utilizada na engenharia de software para visualizar, especificar, construir e documentar os artefatos de um sistema. Ela foi criada para fornecer uma forma comum de visualizar a estrutura e o comportamento de sistemas complexos. A UML é amplamente utilizada no desenvolvimento de software orientado a objetos, mas também pode ser aplicada em outras áreas de engenharia de sistemas.
+
+Aqui estão alguns pontos chave sobre a UML:
+
+Diagramação: A UML utiliza diferentes tipos de diagramas para representar diversos aspectos de um sistema. Esses diagramas são divididos principalmente em dois grupos:
+
+Diagramas Estruturais: Representam a estrutura estática do sistema. Exemplos incluem:
+Diagrama de Classes: Mostra as classes do sistema e seus relacionamentos.
+Diagrama de Objetos: Exibe instâncias de classes e seus vínculos.
+Diagrama de Componentes: Representa a organização e dependência dos componentes físicos do sistema.
+Diagrama de Implantação: Mostra a configuração do hardware e o mapeamento de componentes de software.
+Diagramas Comportamentais: Capturam a dinâmica do sistema. Exemplos incluem:
+Diagrama de Casos de Uso: Ilustra a funcionalidade do sistema do ponto de vista do usuário.
+Diagrama de Sequência: Mostra a interação entre objetos ao longo do tempo.
+Diagrama de Atividades: Representa fluxos de trabalho e processos.
+Diagrama de Estados: Exibe os estados pelos quais um objeto passa durante seu ciclo de vida.
+Padrões de Notação: A UML fornece uma notação padronizada para todos os tipos de diagramas, o que facilita a comunicação entre desenvolvedores e outras partes interessadas.
+
+Documentação e Comunicação: A UML ajuda a documentar os requisitos e o design de um sistema, servindo como uma linguagem comum que todos os stakeholders podem entender. Isso melhora a comunicação e reduz ambiguidades.
+
+Ferramentas de Modelagem: Existem diversas ferramentas de software que suportam a criação e manipulação de diagramas UML, como o Enterprise Architect, Visual Paradigm, e StarUML.
+
+Extensibilidade: A UML pode ser estendida com perfis para adaptá-la a diferentes domínios e metodologias específicas, mantendo a consistência da linguagem principal.
+
+Em resumo, a UML é uma ferramenta poderosa para a modelagem de sistemas complexos, facilitando o entendimento, planejamento, e construção de soluções de software robustas.
+
+
+
+
+
+
