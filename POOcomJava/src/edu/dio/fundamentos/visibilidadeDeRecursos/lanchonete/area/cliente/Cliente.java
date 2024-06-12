@@ -8,6 +8,7 @@ public class Cliente {
         System.out.println("FAZENDO PEDIDO");
     }
     public void pagarConta(){
+        consultarSaldoAplicativo();
         System.out.println("PAGANDO A CONTA");
     }
     private void consultarSaldoAplicativo(){

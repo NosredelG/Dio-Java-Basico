@@ -2,7 +2,7 @@ package edu.dio.fundamentos.visibilidadeDeRecursos.lanchonete;
 
 import edu.dio.fundamentos.visibilidadeDeRecursos.lanchonete.area.cliente.Cliente;
 import edu.dio.fundamentos.visibilidadeDeRecursos.lanchonete.atendimento.Atendente;
-import edu.dio.fundamentos.visibilidadeDeRecursos.lanchonete.atendimento.cozinha.Almoxarife;
+//import edu.dio.fundamentos.visibilidadeDeRecursos.lanchonete.atendimento.cozinha.Almoxarife;
 import edu.dio.fundamentos.visibilidadeDeRecursos.lanchonete.atendimento.cozinha.Cozinheiro;
 
 public class Estabelecimento {

@@ -13,13 +13,20 @@ public class Cozinheiro {
     }
     //pode ser deault
     public void adicionarComboNoBalcao(){
+        prepararCombo();
         adicionarLancheNoBalcao();
         adicionarSucoNoBalcao();
     }
     private void prepararLanche(){
+        selecionarIngridientesLanche();
+        lavarIngridientes();
+        fritarIngredientesLanche();
         System.out.println("PREPARANDO LANCHE TIPO HAMBURGUER");
     }
     private void prepararVitamina(){
+        selecionarIngridientesVitamina();
+        lavarIngridientes();
+        baterVitaminaLiquidificador();
         System.out.println("PREPARANDO SUCO");
     }
     private void prepararCombo(){
